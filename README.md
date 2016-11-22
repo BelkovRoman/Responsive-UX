@@ -3,6 +3,9 @@
 ##Описание
 Главная страница "Responsive-UX"
 
+##Демонстрация макета
+https://belkovroman.github.io/works/Responsive%20UX/index.html
+
 #Файловая структура каталога dev
 * **css**
 	- **components** каталог с компонентами страницы:
